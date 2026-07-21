@@ -1,4 +1,4 @@
-# expense_tracker
+# Expense Tracker
 
 Managing personal finances effectively is essential 
 in today’s fast-paced world. My Expense Tracker 
